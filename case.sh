@@ -5,7 +5,7 @@ case "$name" in
 	;;
 	"ali") echo "Not your pc "
 	;;
-	"memo") echo "your best friend"
+	"memo") echo "your friend"
 	;;
 	*) echo "Not in my DB"
 	;;
